@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		F513A5D42B4DEFDB003DD2FE /* WeSplitApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplitApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F513A5D72B4DEFDB003DD2FE /* WeSplitAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitAppApp.swift; sourceTree = "<group>"; };
-		F513A5D92B4DEFDB003DD2FE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F513A5D92B4DEFDB003DD2FE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F513A5DB2B4DEFDD003DD2FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F513A5DE2B4DEFDD003DD2FE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
